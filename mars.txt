@@ -1,1 +1,3 @@
-This is a text file called mars
+This is a text file called mars.
+Its cold and dry.
+
